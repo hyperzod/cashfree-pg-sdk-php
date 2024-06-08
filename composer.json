@@ -1,5 +1,5 @@
 {
-  "name": "cashfree/cashfree-pg",
+  "name": "hyperzod/cashfree-pg-sdk-php",
   "version": "4.1.2",
   "description": "Cashfree's Payment Gateway APIs provide developers with a streamlined pathway to integrate advanced payment processing capabilities into their applications, platforms and websites.",
   "keywords": [
